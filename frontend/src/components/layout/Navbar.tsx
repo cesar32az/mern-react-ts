@@ -40,7 +40,7 @@ export const Navbar = () => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            News
+            MERN Typescript App
           </Typography>
           <Button>
             <Link to={"/"} className={classes.link}>
